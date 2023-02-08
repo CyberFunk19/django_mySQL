@@ -3,3 +3,4 @@ keep in mind that in order to make the program work you need to follow this step
 first, you need to enter the virtual enviroment.
 second, you'll need to install the requirements file using: "pip install -r requirements.txt"
 also, you need to change the password to the mySQL data base in the "settings.py" file.  
+enjoy :)
